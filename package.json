@@ -1,0 +1,27 @@
+{
+  "name": "hjtip",
+  "version": "0.0.1",
+  "description": "a tip",
+  "main": "hjtip.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwyj123/HJtip.git"
+  },
+  "keywords": [
+    "tip",
+    "sass"
+  ],
+  "author": "lwio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lwyj123/HJtip/issues"
+  },
+  "homepage": "https://github.com/lwyj123/HJtip#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
