@@ -2,12 +2,15 @@
 a wheel of tooltip use sass (HJproject)
 
 # Install
-
-```HTML
-<link rel="stylesheet" type="text/css" href="./dist/hjtip.css" />
+```
+npm install
+gulp build
 ```
 
 # Usage
+```HTML
+<link rel="stylesheet" type="text/css" href="./dist/hjtip.css" />
+```
 ### bottom-right
 
 <div class="hintPrefix">
